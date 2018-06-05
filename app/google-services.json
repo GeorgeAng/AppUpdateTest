@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "693220536605",
+    "firebase_url": "https://appupdate-52467.firebaseio.com",
+    "project_id": "appupdate-52467",
+    "storage_bucket": "appupdate-52467.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693220536605:android:e6d73598c00a127f",
+        "android_client_info": {
+          "package_name": "ga.westpoint.appupdatetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693220536605-q4tio1hkept10bte3rorb3jova9opf6u.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "693220536605-q4tio1hkept10bte3rorb3jova9opf6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDheAEs5MGxt2Svd0a8PKW3Ze9KB6OKaVA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
